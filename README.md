@@ -14,8 +14,8 @@ original archive of its eight floppy images.
 - Retrieved 2026-11-10 from WinWorld,
   https://winworldpc.com/product/quick-c/2x (download
   `d656f319-766c-11ec-bb7d-0200008a0da4`). The sha256 is the one
-  recompile-toolchains pinned for `quickc-2.50` before WinWorld's direct mirror
-  URL stopped serving the file without a session.
+  recompile-toolchains pinned for `quickc-2.50`. WinWorld's mirror answers a
+  direct request with 404 until the client has visited the download page.
 
 ## Usage
 
